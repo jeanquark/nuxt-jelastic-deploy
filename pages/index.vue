@@ -8,11 +8,11 @@
                 Deploy time: 16:57<br /><br />
 				Image local: <br /><img src="/images/1920x1080.jpg" width="100" /><br /><br />
 				Image server local: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/images/1920x1080.jpg" width="100" /><br /><br />
-				<!-- Image server nfs: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/uploads/1920x1080.jpg" width="100" /><br /><br />
-				Image server nfs 2: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/mnt/shared/uploads/1920x1080.jpg" width="100" /><br /><br />
-				Image server nfs 3: <br /><img src="/uploads/1920x1080.jpg" width="100" /><br /><br />
-				Image server nfs 4: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/loginmycv/uploads/1920x1080.jpg" width="100" /><br /><br />
-				Image server nfs 5: <br /><img src="/loginmycv/uploads/1920x1080.jpg" width="100" /><br /><br /> -->
+				Image server nfs: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/loginmycv/data/1920x1080.jpg" width="100" /><br /><br />
+				Image server nfs 2: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/data/1920x1080.jpg" width="100" /><br /><br />
+				Image server nfs 3: <br /><img src="/loginmycv/data/1920x1080.jpg" width="100" /><br /><br />
+				Image server nfs 4: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/loginmycv/1920x1080.jpg" width="100" /><br /><br />
+				Image server nfs 5: <br /><img src="/loginmycv/1920x1080.jpg" width="100" /><br /><br />
 				<!-- Image server nfs 6: <br /><br /><br /> -->
             </div>
         </div>
