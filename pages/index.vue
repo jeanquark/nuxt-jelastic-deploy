@@ -5,15 +5,16 @@
             <h1 class="title">nuxt-jelastic-deploy</h1>
             <div class="links">
                 Current time: {{ new Date() }}<br />
-                Deploy time: 18:45<br /><br />
-				Image local: <br /><img src="/images/1920x1080.jpg" width="100" /><br /><br />
-				Image server local: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/images/1920x1080.jpg" width="100" /><br /><br />
-				Image server nfs: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/loginmycv/data/1920x1080.jpg" width="100" /><br /><br />
-				Image server nfs 2: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/data/1920x1080.jpg" width="100" /><br /><br />
-				Image server nfs 3: <br /><img src="/loginmycv/loginmycv/1920x1080.jpg" width="100" /><br /><br />
-				Image server nfs 4: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/loginmycv/1920x1080.jpg" width="100" /><br /><br />
-				Image server nfs 5: <br /><img src="/loginmycv/1920x1080.jpg" width="100" /><br /><br />
-				<!-- Image server nfs 6: <br /><br /><br /> -->
+                Deploy time: Saturday 16:24<br /><br />
+                Image local: <br /><img src="/images/1920x1080.jpg" width="100" /><br /><br />
+                Image server local: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/data/1920x1080.jpg" width="100" /><br /><br />
+                Image server nfs: <br /><img src="/data/1920x1080.jpg" width="100" /><br /><br />
+                Image server nfs 2: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/mounted_data_jm/data/1920x1080.jpg" width="100" /><br /><br />
+                Image server nfs 3: <br /><img src="/1920x1080.jpg" width="100" /><br /><br />
+                Image server nfs 4: <br /><img src="/loginmycv/data/1920x1080.jpg" width="100" /><br /><br />
+                Image server nfs 5: <br /><img src="/loginmycv/1920x1080.jpg" width="100" /><br /><br />
+				Image server nfs 6: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/1920x1200.jpg" width="100" /><br /><br />
+                <!-- Image server nfs 6: <br /><br /><br /> -->
             </div>
         </div>
     </div>
