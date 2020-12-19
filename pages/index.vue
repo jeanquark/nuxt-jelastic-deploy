@@ -5,7 +5,7 @@
             <h1 class="title">nuxt-jelastic-deploy</h1>
             <div class="links">
                 Current time: {{ new Date() }}<br />
-                Deploy time: Saturday 16:24<br /><br />
+                Deploy time: Saturday 17:40<br /><br />
                 Image local: <br /><img src="/images/1920x1080.jpg" width="100" /><br /><br />
                 Image server local: <br /><img src="https://loginmycv.jcloud-ver-jpc.ik-server.com/data/1920x1080.jpg" width="100" /><br /><br />
                 Image server nfs: <br /><img src="/data/1920x1080.jpg" width="100" /><br /><br />
